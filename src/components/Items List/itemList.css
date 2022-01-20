@@ -1,0 +1,22 @@
+@media only screen and (max-width: 600px){
+.items_list{
+    text-align:left;
+    color: rgb(245, 245, 245);
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.list{
+    list-style: none;
+    font-family: 'Gloria Hallelujah';
+    font-size: 30px;
+}
+
+.delete{
+   margin-left: 80px;
+   font-size: 30px;
+}
+
+}
+
